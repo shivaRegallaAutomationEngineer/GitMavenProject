@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="257" started-at="2019-04-23T17:09:08Z" finished-at="2019-04-23T17:09:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="257" started-at="2019-04-23T17:09:08Z" finished-at="2019-04-23T17:09:08Z">
+      <class name="Programs.FirstProgram">
+        <test-method status="PASS" signature="login()[pri:0, instance:Programs.FirstProgram@73ad2d6]" name="login" duration-ms="3" started-at="2019-04-23T17:09:08Z" finished-at="2019-04-23T17:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:Programs.FirstProgram@73ad2d6]" name="logout" duration-ms="4" started-at="2019-04-23T17:09:08Z" finished-at="2019-04-23T17:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="search()[pri:0, instance:Programs.FirstProgram@73ad2d6]" name="search" duration-ms="15" started-at="2019-04-23T17:09:08Z" finished-at="2019-04-23T17:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- Programs.FirstProgram -->
+      <class name="Programs.SecondsPrograms">
+        <test-method status="PASS" signature="login1()[pri:0, instance:Programs.SecondsPrograms@3fee9989]" name="login1" duration-ms="18" started-at="2019-04-23T17:09:08Z" finished-at="2019-04-23T17:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="logout1()[pri:0, instance:Programs.SecondsPrograms@3fee9989]" name="logout1" duration-ms="17" started-at="2019-04-23T17:09:08Z" finished-at="2019-04-23T17:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout1 -->
+        <test-method status="PASS" signature="search1()[pri:0, instance:Programs.SecondsPrograms@3fee9989]" name="search1" duration-ms="14" started-at="2019-04-23T17:09:08Z" finished-at="2019-04-23T17:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search1 -->
+      </class> <!-- Programs.SecondsPrograms -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
